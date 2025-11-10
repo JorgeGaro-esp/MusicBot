@@ -1,0 +1,5 @@
+discord.py
+yt_dlp
+spotipy
+asyncio
+python-dotenv
